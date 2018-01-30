@@ -1,0 +1,15 @@
+##Pasos para trabajar con GitHub
+
+#Hago Fork de la carpeta subida en CursosWeb perteneciente al ejercicio en cuestion
+
+#'git clone' https://github.com/VictCM/...
+
+#SI hago 'git status' veo que no hay ningun archivo en seguimiento
+#Para ponerlo en seguimiento uso 'git add' <archivo>
+
+#Ahora en 'git status' ya me sale un archivo en seguimiento
+#Realizo 'git commit -m "Datos_version" <archivo>'
+
+#Ya no me sale nada en 'git status'
+#Para ver el archivo al que he hecho commit lo puedo ver con 'git log'
+#Con 'git push' lo añado a la web y lo subo
